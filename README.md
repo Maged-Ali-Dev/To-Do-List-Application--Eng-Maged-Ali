@@ -1,6 +1,3 @@
-Here’s an explanation for your project that you can use for uploading it to GitHub:
-
----
 
   To-Do List Application
 
